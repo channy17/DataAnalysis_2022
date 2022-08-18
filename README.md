@@ -7,7 +7,7 @@
   * 이미지 
   * 내용 : 머신러닝 논문에 사용된 IRIS 데이터 셋에 대해 EDA, 기본 모델을 만들어보고 모델 평가까지 해본다.
     * IRIS EDA [html](https://channy17.github.io/DataAnalysis_2022/IRIS_BASIC01.html)
-    * IRIS 기본 모델 및 평가 [link]()
+    * IRIS 기본 모델 및 평가 [link](https://github.com/channy17/DataAnalysis_2022/blob/main/iris_flask.py)
 
 
 ## [Brain Stroke 데이터 분석해 보기]
