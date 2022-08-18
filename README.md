@@ -9,3 +9,7 @@
     * IRIS EDA [html](https://channy17.github.io/DataAnalysis_2022/IRIS_BASIC01.html)
     * IRIS 기본 모델 만들기 [html]()
     * IRIS 모델 평가 [html]()
+
+## [Brain Stroke 데이터 분석해 보기]
+  * 데이터 참조 : https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
+  * 내용 : 
