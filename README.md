@@ -12,4 +12,5 @@
 
 ## [Brain Stroke 데이터 분석해 보기]
   * 데이터 참조 : https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
-  * 내용 : 
+  * 내용 : 여러 요소에 따른 뇌졸증 발생에 대한 여부 계산
+  * Brain_stroke 모델 및 평가 [
